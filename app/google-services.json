@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501499037145",
+    "firebase_url": "https://appemprestimo-5a7fb.firebaseio.com",
+    "project_id": "appemprestimo-5a7fb",
+    "storage_bucket": "appemprestimo-5a7fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501499037145:android:eee36d35562260f5",
+        "android_client_info": {
+          "package_name": "com.example.iossenac.appemprestimofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501499037145-g055fvcf1k84jqbpocur9oioqcgfo9fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iossenac.appemprestimofirebase",
+            "certificate_hash": "292118207e395ea117b744d4177c88df0c40247f"
+          }
+        },
+        {
+          "client_id": "501499037145-3kd69vc0iemrvnvbmcl2u43mnpv2s6og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdWV20NrlxQmf5zqa0b4Gyqa-Ukpiu53g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501499037145-3kd69vc0iemrvnvbmcl2u43mnpv2s6og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
